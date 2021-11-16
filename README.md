@@ -1,5 +1,5 @@
 # Hackathon-ML4SCI
 
-### TEAM NAME: 
+### TEAM NAME: BiTs
 
 Adding Submission of all the challenges
